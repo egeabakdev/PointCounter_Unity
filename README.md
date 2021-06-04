@@ -17,3 +17,7 @@ Animating point changes
 ### Episode 3
 
 Creating a basic high score logic & UI
+
+### Episode 4
+
+Creating & Saving a High Score List
